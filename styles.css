@@ -1,0 +1,29 @@
+body{
+    /* padding: 0 10%; */
+    font-size: 18px;
+    margin:0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding:16px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap:8px;
+}
+
+.header-logo{
+    font-size: 24px;
+}
+
+.pad{
+padding: 0 20%;
+}
